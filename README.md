@@ -1,8 +1,8 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=huan-cdm&show_icons=true&theme=transparent)
-![Visitor Count](https://profile-counter.glitch.me/huan-cdm/count.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huan-cdm&layout=compact&theme=tokyonight)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=huan-cdm&theme=dracula)
+⚡![](https://github-readme-stats.vercel.app/api?username=huan-cdm&show_icons=true&theme=transparent)
+⚡![Visitor Count](https://profile-counter.glitch.me/huan-cdm/count.svg)
+⚡![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huan-cdm&layout=compact&theme=tokyonight)
+⚡![](https://github-readme-activity-graph.cyclic.app/graph?username=huan-cdm&theme=dracula)
 
 
 <!--
