@@ -4,7 +4,7 @@
 👋如果对大家有所帮助，欢迎⭐️⭐️⭐️！
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huan-cdm&theme=radical" width="30%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huan-cdm&theme=radical" width="30%" /><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huan-cdm&theme=radical" width="30%" />
 <!-- 实时贡献日历热图 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huan-cdm&theme=radical" width="100%" />
 
