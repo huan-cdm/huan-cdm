@@ -3,7 +3,7 @@
 
 👋如果对大家有所帮助，欢迎⭐️⭐️⭐️！
 
-<div align="center">
+<div align="left">
 <!-- 添加动态数据卡片 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huan-cdm&theme=radical" width="40%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huan-cdm&theme=radical" width="40%"/>
